@@ -4,7 +4,7 @@
 </div>
 <!-- ANIMATED TYPING -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=4169E1&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Building+Intelligent+Systems;Transforming+Data+into+Insights;Crafting+the+Future+with+AI" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2000&pause=1000&color=4169E1&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Building+Intelligent+Systems;Transforming+Data+into+Insights;Crafting+the+Future+with+AIML" alt="Typing Animation" />
 </p>
 <br/>
 <!-- PROFILE BADGES -->
