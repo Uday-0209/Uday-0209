@@ -1,32 +1,87 @@
-<h1 align="center">Hi 👋, I'm Uday Hiremath</h1>
-<h3 align="center">A passionate AIML and GenAI Engineer</h3>
+<!-- HEADER -->
+<h1 align="center"><b>Hi 👋, I'm Uday Hiremath</b></h1>
+<h3 align="center">A Passionate AIML & GenAI Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=uday-0209&label=Profile%20views&color=0e75b6&style=flat" alt="uday-0209" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=uday-0209&label=Profile%20Views&color=1e90ff&style=for-the-badge" alt="views"/>
+</p>s
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=uday-0209" alt="uday-0209" /></a> </p>
-
-- 🔭 I’m currently working on **Email-automation-using LLM, AI based RUL prediction for BSFD, Automation chatbots, AI powered Data anlysis tool**
-
-- 🌱 I’m currently learning **Fastapi, MlOps, NanoLLM, LLMOps, CICD**
-
-- 👯 I’m looking to collaborate on **Real time AIML projects**
-
-- 📫 How to reach me **udayhiremath02@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/uday hiremath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="uday hiremath" height="30" width="40" /></a>
-<a href="https://fb.com/kalpithuday" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kalpithuday" height="30" width="40" /></a>
-<a href="https://instagram.com/kalpithuday" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kalpithuday" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ukmh02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ukmh02" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://img.shields.io/badge/AI/ML%20Engineer-Royal%20Blue?style=for-the-badge&color=4169e1" />
+  <img src="https://img.shields.io/badge/GenAI%20Developer-1e90ff?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OpenSource%20Contributor-187bcd?style=for-the-badge" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<!-- TROPHY -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=uday-0209&theme=algolia&no-bg=true&no-frame=true&row=1" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=uday-0209&show_icons=true&locale=en&layout=compact" alt="uday-0209" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uday-0209&show_icons=true&locale=en" alt="uday-0209" /></p>
+## 🚀 **About Me**
+- 🔭 Currently working on:  
+  **Email Automation using LLMs**, **AI-based RUL Prediction**, **Automation Chatbots**, **AI-powered Data Analysis Tools**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uday-0209&" alt="uday-0209" /></p>
+- 🌱 Learning:  
+  **FastAPI**, **MLOps**, **NanoLLM**, **LLMOps**, **CI/CD**
 
+- 🤝 Looking to collaborate on:  
+  **Real-time AIML & GenAI Projects**
+
+- 📫 Reach me at: **udayhiremath02@gmail.com**
+
+---
+
+## 🌐 **Connect With Me**
+<p align="left">
+<a href="https://linkedin.com/in/uday hiremath" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
+</a>
+<a href="https://fb.com/kalpithuday" target="_blank">
+  <img src="https://skillicons.dev/icons?i=facebook" width="48"/>
+</a>
+<a href="https://instagram.com/kalpithuday" target="_blank">
+  <img src="https://skillicons.dev/icons?i=instagram" width="48"/>
+</a>
+<a href="https://www.leetcode.com/ukmh02" target="_blank">
+  <img src="https://skillicons.dev/icons?i=leetcode" width="48"/>
+</a>
+</p>
+
+---
+
+## 🛠️ **Tech Stack**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,fastapi" />
+  <img src="https://skillicons.dev/icons?i=django,flask,html,css,git" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+  <img src="https://skillicons.dev/icons?i=qt" />
+</p>
+
+---
+
+## 📊 **GitHub Stats**
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=uday-0209&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uday-0209&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🔥 **GitHub Streak**
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uday-0209&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🏆 **My Contributions**
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=uday-0209&theme=react-dark&bg_color=0d1117&hide_border=true&line=1e90ff&point=00bfff" />
+</p>
+
+---
+
+<h3 align="center">✨ Thank you for visiting my profile! ✨</h3>
