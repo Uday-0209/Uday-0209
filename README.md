@@ -1,11 +1,11 @@
 <!-- ANIMATED HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=200&section=header&text=Uday%20Hiremath&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI/ML%20%26%20GenAI%20Engineer&descAlignY=55&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=200&section=header&text=Uday%20Hiremath&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI/ML%20and%20GenAI%20Engineer&descAlignY=55&descAlign=50" width="100%"/>
 </div>
 
 <!-- ANIMATED TYPING -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=4169E1&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Building+Intelligent+Systems;Transforming+Data+into+Insights;Crafting+the+Future+with+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=4169E1&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Building+Intelligent+Systems;Transforming+Data+into+Insights;Crafting+the+Future+with+AI" alt="Typing Animation" />
 </p>
 
 <!-- PROFILE BADGES -->
