@@ -100,7 +100,7 @@ class AIMLEngineer:
 ---
 
 ## 📊 **GitHub Analytics**
-<---
+<!---
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=uday-0209&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=4169E1&icon_color=4169E1&text_color=C9D1D9&border_radius=10" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uday-0209&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=4169E1&text_color=C9D1D9&border_radius=10&langs_count=8" />
@@ -115,7 +115,7 @@ class AIMLEngineer:
 </p>
 
 ---
-<----
+<!---
 ## 🏆 **Achievements & Recognition**
 
 <p align="center">
