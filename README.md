@@ -5,14 +5,13 @@
 
 <!-- ANIMATED TYPING -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=4169E1&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Building+Intelligent+Systems;Transforming+Data+into+Insights;Crafting+the+Future+with+AI" alt="Typing Animation" />
-
-  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=4169E1&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Building+Intelligent+Systems;Transforming+Data+into+Insights;Crafting+the+Future+with+AI" alt="Typing Animation" />  
 </p>
 
-
-
 <!-- PROFILE BADGES -->
+<p>
+
+</p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=uday-0209&label=Profile%20Views&color=4169E1&style=for-the-badge" alt="profile views"/>
   <img src="https://img.shields.io/github/followers/uday-0209?label=Followers&style=for-the-badge&color=4169E1&labelColor=1e3a8a" alt="followers"/>
