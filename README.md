@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=uday-0209" alt="uday-0209" /></a> </p>
 
-- 🔭 I’m currently working on **Email-automation-using LLM**
+- 🔭 I’m currently working on **Email-automation-using LLM, AI based RUL prediction for BSFD, Automation chatbots, AI powered Data anlysis tool**
 
 - 🌱 I’m currently learning **Fastapi, MlOps, NanoLLM, LLMOps, CICD**
 
